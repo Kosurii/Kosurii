@@ -13,7 +13,7 @@ I mainly code for fun, but will sometimes work on paid tools and other projects.
 
 <img src="https://github-readme-stats.vercel.app/api?username=Kosurii&&show_icon=true&title_color=faa1ff&icon_color=00FFFF&text_color=00FFFF&bg_color=0d1117"/>
 
-<object data="https://discord.com/api/guilds/753822171381629029/widget.json" width="350" height="500" type="text/html"> Alternative Content </object>
+<object data="https://discord.com/api/guilds/753822171381629029/widget.json" width="350" height="500" type="text/html"> </object>
 
 -------
 
