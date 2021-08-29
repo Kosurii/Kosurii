@@ -13,7 +13,11 @@ I mainly code for fun, but will sometimes work on paid tools and other projects.
 
 <img src="https://github-readme-stats.vercel.app/api?username=Kosurii&&show_icon=true&title_color=faa1ff&icon_color=00FFFF&text_color=00FFFF&bg_color=0d1117"/>
 
-<img src="https://discord.com/widget?id=753822171381629029&theme=dark"/>
+<body>
+    <object data='https://www.youtube.com/embed/nfk6sCzRTbM?autoplay=1' 
+        width='560px' height='315px'>
+    </object>
+</body>
 
 -------
 
