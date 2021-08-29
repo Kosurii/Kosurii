@@ -13,7 +13,7 @@ I mainly code for fun, but will sometimes work on paid tools and other projects.
 
 <img src="https://github-readme-stats.vercel.app/api?username=Kosurii&&show_icon=true&title_color=faa1ff&icon_color=00FFFF&text_color=00FFFF&bg_color=0d1117">
 
-<iframe src="https://discord.com/widget?id=753822171381629029&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
+<img src="https://discord.com/widget?id=753822171381629029&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts">
 
 -------
 
