@@ -13,6 +13,7 @@ I mainly code for fun, but will sometimes work on paid tools and other projects.
 
 <h3 align="left">Github Stats:</h3>
 <a href="https://github.com/Kosurii" target="_self"> <img src="https://github-readme-stats.vercel.app/api?username=Kosurii&&show_icon=true&title_color=faa1ff&icon_color=00FFFF&text_color=00FFFF&bg_color=0d1117"/> </a>
+<a href="https://github.com/Kosurii" target="_self"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kosurii&&show_icon=true&title_color=faa1ff&icon_color=00FFFF&text_color=00FFFF&bg_color=0d1117"/> </a>
 
 -------
 Currently Project: [Kuso Nuker V3](https://teamkuso.xyz/nuker)
