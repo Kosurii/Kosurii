@@ -5,7 +5,7 @@ Kosuri/Kosurii/Kos
 -------
 
 About Me:
-I am a 16 yo. content creator and developer from Los Angeles, California.
+I am a 17 yo. content creator and developer from Los Angeles, California.
 I mainly code for fun, but will sometimes work on paid tools and other projects.
 =======
 <h3 align="left">Languages:</h3>
