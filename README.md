@@ -1,4 +1,4 @@
-## <h1>Kqsy</h1>
+## <h1>Kqsy ✨</h1>
 
 Kosuri/Kqsy/Kos
 
