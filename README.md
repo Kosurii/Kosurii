@@ -1,6 +1,6 @@
-## <h1>Kosuri</h1>
+## <h1>Kqsy</h1>
 
-Kosuri/Kosurii/Kos
+Kosuri/Kqsy/Kos
 
 -------
 
