@@ -18,7 +18,7 @@ I mainly code for fun, but will sometimes work on paid tools and other projects.
 -------
 Current Project: [Kuso Nuker V3](https://teamkuso.xyz/nuker)
 -------
-Contact Email: `kxsuri@pm.me`
+Contact Email: `kosuri@teamksuo.xyz`
 ------
 Pronouns: She/Her/Kos
 -----------------------------------------------------------------------
