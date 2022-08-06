@@ -3,6 +3,7 @@
 Kosuri/Kqsy/Kos
 
 -------
+<p align="left"> <a href="https://discord.com/users/663912795032780810" target="_blank"> <img src="https://discord.c99.nl/widget/theme-4/663912795032780810.png" alt="Kosuri#6719 on Discord" width="40" height="40"/> </a>
 
 About Me:
 I am a 17 yo. content creator and developer from Los Angeles, California.
