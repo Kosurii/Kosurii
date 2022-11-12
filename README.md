@@ -17,9 +17,9 @@ I mainly code for fun, but will sometimes work on paid tools and other projects.
 <a href="https://github.com/kqsy" target="_self"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kqsy&&show_icon=true&title_color=faa1ff&icon_color=00FFFF&text_color=00FFFF&bg_color=0d1117"/> </a>
 
 -------
-Current Project: [Kuso Nuker V3](https://teamkuso.xyz/nuker)
+Current Project(s): [Kuso Nuker V3](https://teamkuso.xyz/nuker), [Kuso Panel V2](https://teamkuso.xyz/api), [V4mp Name Checker](https://v4.kxso.xyz)
 -------
-Contact Email: `kosuri@teamksuo.xyz`
+Contact Email: `kosuri@teamkuso.xyz`
 ------
 Pronouns: She/Her/Kos
 -----------------------------------------------------------------------
